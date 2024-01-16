@@ -1,7 +1,7 @@
 # Safety-Guard-Tool
 Safety Guard Tool, verify UNE EN ISO 13857
 
-This tool helps you measure distances to hazards through safeguards with openings. It is carried out following table 4 of UNE EN 13857.
+This tool helps you measure distances to hazards through safeguards with openings. It is carried out following table 4 of UNE EN ISO 13857.
 
 ![imagen](https://github.com/muerd/Safety-Guard-Tool/assets/96789064/14b0eb0f-9924-4bc6-80c7-4544f78f9901)
 
